@@ -1,0 +1,10 @@
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\bin\Debug\Test Vyjímky.exe.config
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\bin\Debug\Test Vyjímky.exe
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\bin\Debug\Test Vyjímky.pdb
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\obj\Debug\Test Vyjímky.csprojAssemblyReference.cache
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\obj\Debug\Test_Vyjímky.Form1.resources
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\obj\Debug\Test_Vyjímky.Properties.Resources.resources
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\obj\Debug\Test Vyjímky.csproj.GenerateResource.cache
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\obj\Debug\Test Vyjímky.csproj.CoreCompileInputs.cache
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\obj\Debug\Test Vyjímky.exe
+G:\PRG\C#\Test Vyjímky\Test Vyjímky\obj\Debug\Test Vyjímky.pdb
